@@ -8,7 +8,7 @@ namespace Client
     {
         public static void Main(string[] args)
         {
-            int x = 5;
+            int x = 6;
 int y = 6;
 int sum = x + y;
 Console.WriteLine(sum); 
